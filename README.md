@@ -13,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">- I am a student at UTM University pursuing a degree in Computer Science. I have a keen interest in web development and have completed various projects and assignments in this field.</p>
+<p align="left">I am a student at UTM University pursuing a degree in Computer Science. I have a keen interest in web development and have completed various projects and assignments in this field.</p>
 
 
 
