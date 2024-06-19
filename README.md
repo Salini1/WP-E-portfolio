@@ -92,7 +92,7 @@
             </a>
         </li>
         <li>
-            <a href="https://6630f2c86353e510bad3265e--splendid-naiad-8dd5e8.netlify.app/](https://6669ce6117a9aa50b1e58a50--melodious-gelato-51e005.netlify.app/" style="color: #800080; text-decoration: none;">
+            <a href="https://6669ce6117a9aa50b1e58a50--melodious-gelato-51e005.netlify.app/" style="color: #800080; text-decoration: none;">
                 Assignment 3
             </a>
         </li>
