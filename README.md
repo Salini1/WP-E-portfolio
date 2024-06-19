@@ -1,5 +1,5 @@
 <!--Banner-->
-![Salini Banner Image](./banner.png)
+![Salini Banner Image](https://github.com/Salini1/WP-E-portfolio/blob/72538f5c1175f102d9374dfe94209baeddc9b4c9/Github%20banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -79,9 +79,25 @@
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689/WP-E-portfolio">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Salini&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+     <p align="center">
+    <ul style="list-style: none; padding: 0;">
+        <li>
+            <a href="https://github.com/Salini1/WP-E-portfolio/blob/72538f5c1175f102d9374dfe94209baeddc9b4c9/My-Portfolio-main/assets/images/projects/WEB%20PROGRAMMING%20ASSIGNMENT%201.pdf" style="color: #800080; text-decoration: none;">
+                Assignment 1
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/Salini1/WP-Assigment2-GroupPortfolio" style="color: #800080; text-decoration: none;">
+            Assignment 2
+            </a>
+        </li>
+        <li>
+            <a href="https://6630f2c86353e510bad3265e--splendid-naiad-8dd5e8.netlify.app/" style="color: #800080; text-decoration: none;">
+                Assignment 3
+            </a>
+        </li>
+    </ul>
+</p>
         </a>
       </p>
     </td>
@@ -108,25 +124,3 @@
 #
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-
-
-
-
-# SALINI RAVINTHIRAN's E-Portfolio
-
-
-
-## Web Programming (SECV2223) Assignment 3 Github E-portfolio
-- I am a student at UTM University pursuing a degree in Computer Science. I have a keen interest in web development and have completed various projects and assignments in this field.
-
-### Core
-- **Education**: Bachelor of Computer Science,UTM
-- **Position**: Student
-- **Skills**: HTML, CSS, JavaScript, Git, GitHub
-
-### Recommended
-- **Courses**: Web Programming, Database Management, Software Engineering
-- **Certificates**: CCNAv7: Introduction to Networks,Microsoft Certified: Azure Fundamentals
-
-### Future Information can be found through my E-portfolio
--View here [https://6669ce6117a9aa50b1e58a50--melodious-gelato-51e005.netlify.app/]
